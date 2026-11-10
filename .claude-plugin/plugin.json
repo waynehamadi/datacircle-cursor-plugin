@@ -1,0 +1,10 @@
+{
+  "name": "datacircle",
+  "version": "0.1.0",
+  "description": "Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.",
+  "author": { "name": "Datacircle", "email": "wayne@datacircle.dev" },
+  "homepage": "https://datacircle.dev",
+  "repository": "https://github.com/waynehamadi/datacircle-cursor-plugin",
+  "license": "MIT",
+  "mcpServers": { "datacircle": { "type": "http", "url": "https://api.datacircle.dev/mcp" } }
+}
